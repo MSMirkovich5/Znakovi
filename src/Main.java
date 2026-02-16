@@ -9,7 +9,6 @@ public class Main {
 
         // Zadatak 1: Brojač slova, brojeva i ostalih znakova
 
-        /*
         int countslova = 0;
         int countbrojevi = 0;
         int countznak = 0;
@@ -21,7 +20,6 @@ public class Main {
             else countznak++;
         }
         System.out.println("Slova: " + countslova + " Brojevi: " + countbrojevi + " Znakovi: " + countznak);
-        */
 
         // Zadatak 2: Obrnuti String
 
